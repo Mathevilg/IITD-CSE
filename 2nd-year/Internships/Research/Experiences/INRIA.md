@@ -5,16 +5,16 @@ Contributed by Parth Patel
 - Professor: **Dr. Edoardo SARTI, Team  ABS (Algorithms Biology Structure)**
 ### Experience
 
-The research experience was great. My advisor actually gave a real problem and not like just implementing some peudo-code given in some paper. The project was on live phylogeny. Given pairwise distances between a set of genome sequences, one needs to develop a novel heuristic to construct an evolutionary tree. The existing methods which work well only contructs a phylogeny tree with no parent-child like relationship but a tree where all the datapoints occupy the leaves and internal nodes are empty. For more details, please feel free to contact.   The place where we lived (along the French Riviera) was nice. Beautiful beaches and adjacent to beach, are the hills. We were staying in the "tech park" - Sophia Antipolis. It is like a semi-urban town. But very good places nearby if you like nature i.e. beaches/swimming/hikes/mountains. Cannes is 10 km away (can go to see the red carpet). Monaco grand prix (Monaco is 35 mins by train). Also cheap flights/buses to Rome (Italy is very near).  
+The research experience was great. My advisor gave a real problem and did not just implement pseudo-codes given in some papers. The project was on live phylogeny. Given pairwise distances between genome sequences, one must develop a novel heuristic to construct an evolutionary tree. The existing methods, which work well, only contructs a phylogeny tree with no parent-child-like relationship but a tree where all the data points occupy the leaves and internal nodes are empty. For more details, please feel free to contact.   The place where we lived (along the French Riviera) was nice (pun intended :) ). Beautiful beaches and adjacent to the beach are the hills. We were staying in the "tech park" - Sophia Antipolis. It is like a semi-urban town. But perfect places nearby if you like nature, i.e., beaches/swimming/hikes/mountains. Cannes is 10 km away (you can go to see the red carpet). Monaco grand prix (Monaco is 35 mins by train). Also cheap flights/buses to Rome (Italy is very near).  
 
 ### Resources
 
-A senior recommended to one of my friend. And he recommended me to apply. I also had an invitation from the INRIA Team GenScale at Rennes but I chose this because of good project description and location.
+A senior recommended it to one of my friends. And he advised me to apply. I also had an invitation from the INRIA Team GenScale at Rennes, but I chose this because of the good project description and location.
 
 ### Tips
 
-1. Initially, I would recommend to send personalised emails to professors. Please read about their research work and mention something about one of the papers he has published (even if you just read the abstract). This shows your interest and professors like this unlike the general spam emails that many people write.
-2. Please don't sacrifice your 3rd year intern preparation because of the summer internship. Prepare well for the next year intern during or before the research internship since the working hours are not very high (in our case it was around 7-8 hrs every working day). 
+1. Initially, I recommend sending personalized emails to professors. Please read about their research work and mention something about one of the papers he has published (even if you just read the abstract). Unlike the general spam emails that many people write, this shows your interest and professors like this.
+2. Please don't sacrifice your 3rd-year intern preparation because of the summer internship. Prepare well for the next year's internship season during or before the research internship since the working hours are low (in our case, it was around 7-8 hrs every working day). 
 
 ### CV / Cover Letter
 
